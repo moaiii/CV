@@ -7,12 +7,14 @@
 ```
 
  #####  Javascript · Typescript · React · React Native · Node · AWS · CSS
+ 
 
 ```diff
 + Industries
 ```
 
 #####  Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
+
 
 ```diff
 + Brands
