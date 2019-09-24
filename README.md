@@ -94,8 +94,26 @@
 + Education
 ```
 
-* Load of practical learning on Udemy, Eggheads, Code academy, A Cloud Guru, Stackoverflow and of course just plain old DoingThingTheHardWay ™!
+* Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and of course the classic DoingThingsTheHardWay.com™
 
 * MSc Software Development, Glasgow University
 
 * BSc (Hons) Civil Engineering, Caledonian University
+
+
+``` diff
++ On the wide web
+```
+
+* [Github](https://github.com/moaiii)
+* [Soundcloud](https://soundcloud.com/moai_music)
+* [Linkedin](https://www.linkedin.com/in/moaiii/)
+
+
+``` diff
++ Contact
+```
+<christopher.melville@me.com>
+
+
+### Thanks for stopping by! 👋
