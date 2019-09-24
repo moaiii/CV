@@ -1,19 +1,24 @@
 # 👨‍💻 CHRISTOPHER MELVILLE 
 
-## Full stack software engineer
+### Full stack software engineer
 
 ```diff
 + Key technologies 
 ```
 
- #### Javascript · Typescript · React · React Native · Node · AWS · CSS
+ ##### Javascript · Typescript · React · React Native · Node · AWS · CSS
 
+```diff
++ Industries
+```
+
+##### Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
 
 ```diff
 + Brands
 ```
 
- #### Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
+ ##### Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
 
 ```diff
 + Experience
@@ -73,10 +78,10 @@
   * London 🇬🇧 - Apr 2016 – May 2017
   
   ```
-    Agency side website design and build for their biggest brands - Google & FT clients
+    Agency side website design and build for their biggest brands - Google & FT
   ```
 
-* [Global Maritime](https://www.globalmaritime.com/) - Project Engineer 
+* 🌊 [Global Maritime](https://www.globalmaritime.com/) - Project Engineer 
   * Aberdeen 🇬🇧 - Aug 2013 – Jul 2015
 
   ```
@@ -87,7 +92,7 @@
   * Western Australia 🇦🇺 - Aug 2011 – Sep 2013
     
    ```
-     Project design engineer for geotechnic operations in various dusty mine sites in WA
+     Project design engineer for geotechnic operations in various dusty mine sites around Oz
    ```
 
 ``` diff
