@@ -96,9 +96,9 @@
 
 * Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and of course the classic DoingThingsTheHardWay.com™
 
-* MSc Software Development, Glasgow University
+* [MSc Software Development](https://www.gla.ac.uk/postgraduate/taught/softwareengineeringmsc/) @ Glasgow University
 
-* BSc (Hons) Civil Engineering, Caledonian University
+* [BSc(Hons) Environmental Civil Engineering](https://www.gcu.ac.uk/study/courses/details/index.php/P00237) @ Caledonian University
 
 
 ``` diff
