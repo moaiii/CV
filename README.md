@@ -6,7 +6,7 @@
 + Key technologies 
 ```
 
- #####  Javascript · Typescript · React · React Native · Node · AWS · CSS
+#####  Javascript · Typescript · React · React Native · Node · AWS · CSS
  
 
 ```diff
@@ -20,7 +20,7 @@
 + Brands
 ```
 
- #####  Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
+#####  Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
 
 ```diff
 + Experience
@@ -37,7 +37,7 @@
     Worked on their internal tools for employee colaboration
 
 * 🏦 [CYBG](https://www.cybg.com/) - React JS developer 
-  *  Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Oct 2018 – Jan 2019
+  * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Oct 2018 – Jan 2019
   
     Worked on their mortgage and loans online application apps 
 
@@ -74,7 +74,7 @@
 * 👷‍♂️ [SRG](https://www.srgglobal.com.au/) - Mining Project Engineer
   * Western Australia 🇦🇺 - Aug 2011 – Sep 2013
     
-     Project design engineer for geotechnic operations in various dusty mine sites around Oz
+    Project design engineer for geotechnic operations in various dusty mine sites around Oz
 
 ``` diff
 + Education
