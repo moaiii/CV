@@ -6,19 +6,19 @@
 + Key technologies 
 ```
 
- ##### Javascript · Typescript · React · React Native · Node · AWS · CSS
+ #####  Javascript · Typescript · React · React Native · Node · AWS · CSS
 
 ```diff
 + Industries
 ```
 
-##### Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
+#####  Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
 
 ```diff
 + Brands
 ```
 
- ##### Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
+ #####  Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
 
 ```diff
 + Experience
@@ -28,9 +28,9 @@
   * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 - Jul 2019 – Present
 
 
-  ```
+  *
     Lead on Macallans US e-commerce application and microsites for The Famous Grouse
-  ```
+  *
 
 * ✈️ [Skyscanner](https://www.skyscanner.net/) - Full Stack Engineer 
   * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Jan 2019 – Jul 2019
