@@ -1,4 +1,4 @@
-# CHRISTOPHER MELVILLE 👨‍💻
+# 👨‍💻 CHRISTOPHER MELVILLE 
 
 ## Full stack software engineer
 
@@ -24,77 +24,77 @@
 
 
   ```
-    What I did[Named Link](http://www.google.fr/ "Named link title")
+    Lead on Macallans US e-commerce application and microsites for The Famous Grouse
   ```
 
 * ✈️ [Skyscanner](https://www.skyscanner.net/) - Full Stack Engineer 
   * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Jan 2019 – Jul 2019
   
   ```
-    What I did
+    Worked on their internal tools for employee colaboration
   ```
 
 * 🏦 [CYBG](https://www.cybg.com/) - React JS developer 
   *  Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Oct 2018 – Jan 2019
   
   ```
-    What I did
+    Worked on their mortgage and loans online application apps 
   ```
 
 * 🏎️ [Brightmile](https://www.brightmile.io/) - Front End Developer 
   * London 🇬🇧󠁧󠁢󠁥󠁮󠁧󠁿󠁧󠁢󠁳󠁣󠁴󠁿 - Jun 2018 – Oct 2018
   
   ```
-    What I did
+    Made their data rich management dashboard & website
   ```
 
 * 🗞️ [Kaizen](https://www.kaizen.co.uk/) (Content Marketing) - Front End Developer 
   * London 🇬🇧 - Apr 2018 – Jun 2018
   
   ```
-    What I did
+    Created heaps of microsite for their clients PR stories. Fun, shareable and interactive was the name of the game!
   ```
 
 * 🛥️ [AhoyClub](https://ahoyclub.com/) - Full Stack Developer 
   * Sydney 🇦🇺 - Jan 2018 – Mar 2018
   
   ```
-    What I did
+    Worked on their 'AirBnB of the super yacht world' e-commerce app
   ```
 
 * 🎶 [Ambie](https://www.ambie.fm/) - Full Stack Developer
   * London 🇬🇧 - May 2017 – Jan 2018
   
   ```
-    What I did
+    Worked on their 'Spotify for businesses' music delivery system & associated web dashboards
   ```
 
 * 👻 [PHANTOM](https://phantom.land/work/) - Creative Developer 
   * London 🇬🇧 - Apr 2016 – May 2017
   
   ```
-    What I did
+    Agency side website design and build for their biggest brands - Google & FT clients
   ```
 
 * [Global Maritime](https://www.globalmaritime.com/) - Project Engineer 
   * Aberdeen 🇬🇧 - Aug 2013 – Jul 2015
 
   ```
-  Oil, Gas and Renewables | VBA | Python | C#
+    Worked with their GMOOR flagship oil and gas marine engineering software (C# and Python)
   ```
 
 * 👷‍♂️ [SRG](https://www.srgglobal.com.au/) - Mining Project Engineer
   * Western Australia 🇦🇺 - Aug 2011 – Sep 2013
     
-  ```
-    What I did
-  ```
+   ```
+     Project design engineer for geotechnic operations in various dusty mine sites in WA
+   ```
 
 ``` diff
 + Education
 ```
 
-* Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and of course the classic DoingThingsTheHardWay.com™
+* Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and also just DoingThingsTheHardWay.com™
 
 * [MSc Software Development](https://www.gla.ac.uk/postgraduate/taught/softwareengineeringmsc/) @ Glasgow University
 
