@@ -7,7 +7,23 @@
 ```
 
 #####  Javascript · Typescript · React · React Native · Node · AWS · CSS
- 
+
+
+
+```diff
++ Key live work
+```
+
+* [GoCompare Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
+* [GoCompare Young Entrepreneurs](https://www.gocompare.com/broadband/young-entrepreneurs/#/)
+* [Master Margarita](https://Masterimargarita.withgoogle.com)
+* [FT Undiscovered Japan](http://undiscovered-japan.ft.com/)
+* [Google Telecoms](https://Telecomsconnect.withgoogle.com)
+* [The Famous Grouse](https://promocaothefamousgrouse.pt/)
+* [Brightmile](https://www.brightmile.io/)
+* [CYBG Mortgage AIP](https://aip.cbonline.co.uk/?channel=web)
+
+I have many more projects behind paywalls or ones which ceased to exist
 
 ```diff
 + Industries
