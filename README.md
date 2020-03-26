@@ -14,7 +14,7 @@ Javascript · Typescript · React · React Native · Node · AWS · SASS · Gats
 
 
 ```
-Key live work
+Some live work
 ```
 
 * [GoCompare - Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
