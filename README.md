@@ -2,16 +2,16 @@
 
 ### Full stack software engineer
 
-```diff
-+ Key technologies 
+```
+Key technologies 
 ```
 
 #####  Javascript · Typescript · React · React Native · Node · AWS · CSS
 
 
 
-```diff
-+ Key live work
+```
+Key live work
 ```
 
 * [GoCompare Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
@@ -25,25 +25,30 @@
 
 I have many more projects behind paywalls or ones which ceased to exist
 
-```diff
-+ Industries
+```
+Industries
 ```
 
-#####  Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
+#####  Textiles · Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
 
 
-```diff
-+ Brands
+```
+Brands
 ```
 
-#####  Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times
+#####  Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times · Coats
 
-```diff
-+ Experience
+```
+Experience
 ```
 
-* 🥃 [Edrington](https://www.edrington.com/) - Front End Developer 
-  * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 - Jul 2019 – Present
+* 🏭 [Coats Group](https://www.coats.com/) - Senior UI/UX Developer 
+  * Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - Oct 2019 - Apr 2020
+
+    Architected new UI's for their colour physics laboratory and customer order hub
+
+* 🥃 [Edrington](https://www.edrington.com/) - Lead Front End Developer 
+  * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 - Jul – Oct 2019
 
     Lead on Macallans US e-commerce application and microsites for The Famous Grouse
 
@@ -95,16 +100,18 @@ I have many more projects behind paywalls or ones which ceased to exist
 ``` diff
 + Education
 ```
+* [AWS Certified Developer](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/) @ Cloud Academy (in progress)
 
-* Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and also just DoingThingsTheHardWay.com™
+* [UX fundamentals](https://codeclan.com/courses/ux-design-fundamentals) @ Code Clan Glasgow
 
 * [MSc Software Development](https://www.gla.ac.uk/postgraduate/taught/softwareengineeringmsc/) @ Glasgow University
 
 * [BSc(Hons) Environmental Civil Engineering](https://www.gcu.ac.uk/study/courses/details/index.php/P00237) @ Caledonian University
 
+* Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and also just DoingThingsTheHardWay.com™
 
-``` diff
-+ On the wide web
+``` 
+On the wide web
 ```
 
 * [Github](https://github.com/moaiii)
@@ -112,8 +119,8 @@ I have many more projects behind paywalls or ones which ceased to exist
 * [Linkedin](https://www.linkedin.com/in/moaiii/)
 
 
-``` diff
-+ Contact
+``` 
+Contact
 ```
 <christopher.melville@me.com>
 
