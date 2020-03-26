@@ -4,7 +4,7 @@
 
 I am a full stack javascript engineer with a specialism in frontend UI/UX development. I have experience across a range of industries where I have built everything from pixel perfect marketing websites, rich data-vis dashboards and complex REST based applications.
 
-M.O - "Build it without the bureaucracy"
+My spare time is spent in music tech or woodcrafting. 
 
 ```
 Favourite technologies 
