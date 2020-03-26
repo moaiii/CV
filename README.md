@@ -3,15 +3,15 @@
 ### Full stack software engineer
 
 ```
-Key technologies 
+#####  Favourite technologies 
 ```
 
-#####  Javascript · Typescript · React · React Native · Node · AWS · CSS
+Javascript · Typescript · React · React Native · Node · AWS · CSS
 
 
 
 ```
-Key live work
+#####  Key live work
 ```
 
 * [GoCompare Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
@@ -26,20 +26,20 @@ Key live work
 I have many more projects behind paywalls or ones which ceased to exist
 
 ```
-Industries
+#####  Industries
 ```
 
-#####  Textiles · Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
+Textiles · Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
 
 
 ```
-Brands
+#####  Brands
 ```
 
-#####  Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times · Coats
+Google · Skyscanner · GoCompare · CYBG · Totally money · The famouse Grouse · Financial Times · Coats
 
 ```
-Experience
+#####  Experience
 ```
 
 * 🏭 [Coats Group](https://www.coats.com/) - Senior UI/UX Developer 
@@ -97,8 +97,8 @@ Experience
     
     Project design engineer for geotechnic operations in various dusty mine sites around Oz
 
-``` diff
-+ Education
+``` 
+#####  Education
 ```
 * [AWS Certified Developer](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-june-2018-241/) @ Cloud Academy (in progress)
 
@@ -111,7 +111,7 @@ Experience
 * Loads of practical learning on Udemy, Eggheads, Code Academy, A Cloud Guru, Stackoverflow and also just DoingThingsTheHardWay.com™
 
 ``` 
-On the wide web
+#####  On the wide web
 ```
 
 * [Github](https://github.com/moaiii)
@@ -120,7 +120,7 @@ On the wide web
 
 
 ``` 
-Contact
+#####  Contact
 ```
 <christopher.melville@me.com>
 
