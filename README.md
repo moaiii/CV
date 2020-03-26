@@ -6,7 +6,7 @@
 Favourite technologies 
 ```
 
-Javascript · Typescript · React · React Native · Node · AWS · CSS
+Javascript · Typescript · React · React Native · Node · AWS · SASS
 
 
 
@@ -53,7 +53,7 @@ Experience
     Lead on Macallans US e-commerce application and microsites for The Famous Grouse
 
 * ✈️ [Skyscanner](https://www.skyscanner.net/) - Full Stack Engineer 
-  * Glasgow 🏴󠁧 󠁢󠁳󠁣󠁴󠁿- Jan 2019 – Jul 2019
+  * Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 󠁢󠁳󠁣󠁴󠁿- Jan 2019 – Jul 2019
   
     Worked on their internal tools for employee colaboration
 
@@ -88,7 +88,7 @@ Experience
     Agency side website design and build for their biggest brands - Google & FT
 
 * 🌊 [Global Maritime](https://www.globalmaritime.com/) - Project Engineer 
-  * Aberdeen 🏴󠁧󠁢󠁳󠁣 󠁴󠁿- Aug 2013 – Jul 2015
+  * Aberdeen 🏴󠁧󠁢󠁳󠁣󠁴󠁿 󠁴󠁿- Aug 2013 – Jul 2015
 
     Worked with their GMOOR flagship oil and gas marine engineering software (C# and Python)
 
