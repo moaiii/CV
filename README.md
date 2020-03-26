@@ -17,21 +17,21 @@ Javascript · Typescript · React · React Native · Node · AWS · SASS · Gats
 Key live work
 ```
 
-* [GoCompare Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
+* [GoCompare - Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
 
-* [GoCompare Young Entrepreneurs](https://www.gocompare.com/broadband/young-entrepreneurs/#/)
+* [GoCompare - Young Entrepreneurs](https://www.gocompare.com/broadband/young-entrepreneurs/#/)
 
-* [Master Margarita](https://Masterimargarita.withgoogle.com)
+* [Google - Master Margarita](https://Masterimargarita.withgoogle.com)
 
-* [FT Undiscovered Japan](http://undiscovered-japan.ft.com/)
+* [Financial Times - Undiscovered Japan](http://undiscovered-japan.ft.com/)
 
-* [Google Telecoms](https://Telecomsconnect.withgoogle.com)
+* [Google - Google Telecoms](https://Telecomsconnect.withgoogle.com)
 
-* [The Famous Grouse](https://promocaothefamousgrouse.pt/)
+* [The Famous Grouse - Portugal promotions](https://promocaothefamousgrouse.pt/)
 
-* [Brightmile](https://www.brightmile.io/)
+* [The Brightmile App](https://www.brightmile.io/)
 
-* [CYBG Mortgage AIP](https://aip.cbonline.co.uk/?channel=web)
+* [CYBG - Mortgage AIP](https://aip.cbonline.co.uk/?channel=web)
 
 I have many more projects behind paywalls or ones which ceased to exist
 
