@@ -2,12 +2,15 @@
 
 ### Full stack software engineer
 
+I am a full stack javascript engineer with a specialism in frontend user interface and user experience development. I have experience across a range of industries where I have built everything from pixel perfect website, data rich dashboards and complex REST applications.
+
+M.O - "Build it without the bureaucracy"
+
 ```
 Favourite technologies 
 ```
 
-Javascript · Typescript · React · React Native · Node · AWS · SASS
-
+Javascript · Typescript · React · React Native · Node · AWS · SASS · Gatsby · GraphQL · Jest
 
 
 ```
