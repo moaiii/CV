@@ -18,12 +18,19 @@ Key live work
 ```
 
 * [GoCompare Landlord Insurance](https://www.gocompare.com/landlord-insurance/best-cities-for-landlords/#/)
+
 * [GoCompare Young Entrepreneurs](https://www.gocompare.com/broadband/young-entrepreneurs/#/)
+
 * [Master Margarita](https://Masterimargarita.withgoogle.com)
+
 * [FT Undiscovered Japan](http://undiscovered-japan.ft.com/)
+
 * [Google Telecoms](https://Telecomsconnect.withgoogle.com)
+
 * [The Famous Grouse](https://promocaothefamousgrouse.pt/)
+
 * [Brightmile](https://www.brightmile.io/)
+
 * [CYBG Mortgage AIP](https://aip.cbonline.co.uk/?channel=web)
 
 I have many more projects behind paywalls or ones which ceased to exist
@@ -118,14 +125,16 @@ On the wide web
 ```
 
 * [Github](https://github.com/moaiii)
+
 * [Soundcloud](https://soundcloud.com/moai_music)
+
 * [Linkedin](https://www.linkedin.com/in/moaiii/)
 
 
 ``` 
 Contact
 ```
-<christopher.melville@me.com>
+* <christopher.melville@me.com>
 
 
 ### Thanks for stopping by! 👋
