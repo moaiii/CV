@@ -48,17 +48,17 @@ Experience
     Architected new UI's for their colour physics laboratory and customer order hub
 
 * 🥃 [Edrington](https://www.edrington.com/) - Lead Front End Developer 
-  * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 - Jul – Oct 2019
+  * Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - Jul – Oct 2019
 
     Lead on Macallans US e-commerce application and microsites for The Famous Grouse
 
 * ✈️ [Skyscanner](https://www.skyscanner.net/) - Full Stack Engineer 
-  * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Jan 2019 – Jul 2019
+  * Glasgow 🏴󠁧 󠁢󠁳󠁣󠁴󠁿- Jan 2019 – Jul 2019
   
     Worked on their internal tools for employee colaboration
 
 * 🏦 [CYBG](https://www.cybg.com/) - React JS developer 
-  * Glasgow 🇬🇧󠁧󠁢󠁳󠁣󠁴󠁿 - Oct 2018 – Jan 2019
+  * Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - Oct 2018 – Jan 2019
   
     Worked on their mortgage and loans online application apps 
 
@@ -88,7 +88,7 @@ Experience
     Agency side website design and build for their biggest brands - Google & FT
 
 * 🌊 [Global Maritime](https://www.globalmaritime.com/) - Project Engineer 
-  * Aberdeen 🇬🇧 - Aug 2013 – Jul 2015
+  * Aberdeen 🏴󠁧󠁢󠁳󠁣 󠁴󠁿- Aug 2013 – Jul 2015
 
     Worked with their GMOOR flagship oil and gas marine engineering software (C# and Python)
 
