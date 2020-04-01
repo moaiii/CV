@@ -33,13 +33,13 @@ Some live work
 
 * [CYBG - Mortgage AIP](https://aip.cbonline.co.uk/?channel=web)
 
-+ many more
+ + much more
 
 ```
 Industries
 ```
 
-Textiles · Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil Engineering
+Textiles · Whisky · Travel commerce · Banking · SEO · Tech startups · Creative agency · Marine design · Civil engineering
 
 
 ```
